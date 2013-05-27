@@ -1,4 +1,5 @@
 nnoremap <m-q> :quit<CR>
+nnoremap Y y$
 nnoremap <C-H> gt
 nnoremap <C-L> gT
 map <C-CR>  :put=''<CR>
