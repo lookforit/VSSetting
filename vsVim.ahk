@@ -1,3 +1,5 @@
+F11::suspend
+
 #ifWinActive ahk_class wndclass_desked_gsk
 Space::Tab
 Tab::Space
